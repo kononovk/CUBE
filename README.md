@@ -1,11 +1,14 @@
-# Fedora
+# Fedora (установка библиотек и запуск программы)
+
 
 sudo dnf install libGL-devel glew-devel glfw3-devel
+
 cd CUBE
+
 cc -g -o cube -l GLEW -l OpenGL -l glfw -l m main.c
+
 ./cube
 
-установка библиотек и запуск программы
 
 # CUBE
 Проект по Си. Кононов Николай 131 группа.
