@@ -45,5 +45,5 @@ brick.rgb
 
 Также предлагается посмотреть "снимки экрана" моей работы: "screenshot1.jpg", "screenshot2.jpg" и исполняемый файл CUBE.exe:
 
-![alt text](https://github.com/kononovk/CUBE/blob/master/CUBE/screenshot1.JPG)
-![alt text](https://github.com/kononovk/CUBE/blob/master/CUBE/screenshot2.JPG)
+![alt text](https://github.com/kononovk/CUBE_Linux/blob/master/CUBE/screenshot1.JPG)
+![alt text](https://github.com/kononovk/CUBE_Linux/blob/master/CUBE/screenshot2.JPG)
