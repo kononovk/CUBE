@@ -1,6 +1,4 @@
 # Fedora (установка библиотек и запуск программы)
-
-
 sudo dnf install libGL-devel glew-devel glfw3-devel
 
 cd CUBE
@@ -9,10 +7,7 @@ cc -g -o cube -l GLEW -l OpenGL -l glfw -l m main.c
 
 ./cube
 
-
 # CUBE
-Проект по Си. Кононов Николай 131 группа.
-
 
 Задание проекта:
 
@@ -23,7 +18,7 @@ cc -g -o cube -l GLEW -l OpenGL -l glfw -l m main.c
 - далее идут названия текстур каждого кубика по очереди.
 
 
-# !!! Важно:
+# Важно:
 - Перед загрузкой текстуры нужно преобразовать в R8G8B8 формат
 Преобразовать текстуры можно воспользовавшись сайтом https://convertio.co/ru/jpg-rgb,
 который конвертирует любую картинку в *.rgb формат.
@@ -41,9 +36,8 @@ Esc - выход
 grass.rgb
 PML30.rgb
 brick.rgb
-на большее, к сожалению, фантазии не хватило.
 
-Также предлагается посмотреть "снимки экрана" моей работы: "screenshot1.jpg", "screenshot2.jpg" и исполняемый файл CUBE.exe:
+Также предлагается посмотреть скриншоты моей работы:
 
 ![alt text](https://github.com/kononovk/CUBE_Linux/blob/master/CUBE/screenshot1.JPG)
 ![alt text](https://github.com/kononovk/CUBE_Linux/blob/master/CUBE/screenshot2.JPG)
